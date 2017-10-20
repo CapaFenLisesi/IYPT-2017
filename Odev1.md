@@ -9,13 +9,11 @@ Sınıf | Öğrenci İsmİ | Numara
 
 #  (Heron's Fountain)
 ## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
+Öncelikle bizim seçtiğimiz proje (Heron's Fountain).Bizim bu projede ki amacımız sonsuza kadar devirdaim yapan suyun nasıl böyle devirdaim yaptığını deney yoluyla açıklamaktır.Biz bunu açıklamaya çalışırken aynı zamanda yaptığımız deneyde ki parametreleri değiştirerek de ortaya çıkan sonuçları da karşılaştıracağız.Biraz daha açmak gerekirse (Heron's Fountain) aslında sıvı ve gaz basıncıyla doğrudan ilgilidir bu sebeple bizim değiştireceğimiz parametreler de sıvı ve gaz basıncına etki eden faktörlerle ilgilidir.Biz bu projeyi yaparken de aşağıda belirttiğimiz kaynakçada ki kaynaklardan yararlanacağız...
 
 ## Kaynakçalar  
 Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
 
  1. http://youtu.be/8mqr4TtR3mY
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
+ 
 
