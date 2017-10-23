@@ -9,11 +9,11 @@ Sınıf | Öğrenci İsmİ | Numara
 
 #  (Heron's Fountain)
 ## Özet
-Öncelikle bizim seçtiğimiz proje (Heron's Fountain).(Heron's Fountain) projesinin asıl amacı suyu hiçbir hidrolik,jeneratör veya motor gibi bir sistem kullanmadan suyun bulunan mesajeden yukarı taşınmasını sağlamaktır.Biz bunu bir deney sistemi düzenleyerek yapacağız.Biz bunu yaparken aynı zamanda yaptığımız deneyde ki parametreleri değiştirerek de ortaya çıkan sonuçları da karşılaştıracağız.Biraz daha açmak gerekirse (Heron's Fountain) aslında sıvı ve gaz basıncıyla doğrudan ilgilidir bu sebeple bizim değiştireceğimiz parametreler de sıvı ve gaz basıncına etki eden faktörlerle ilgilidir.Biz bu projeyi yaparken de aşağıda belirttiğimiz kaynakçada ki kaynaklardan yararlanacağız...
+Öncelikle bizim seçtiğimiz proje (Heron's Fountain).(Heron's Fountain) projesinin asıl amacı suyu hiçbir hidrolik,jeneratör veya motor gibi bir sistem kullanmadan suyun bulunan mesafeden yukarı taşınmasını sağlamaktır.Biz bunu bir deney sistemi düzenleyerek yapacağız.Biz bunu yaparken aynı zamanda yaptığımız deneyde ki parametreleri değiştirerek de ortaya çıkan sonuçları da karşılaştıracağız.Biraz daha açmak gerekirse (Heron's Fountain) aslında sıvı ve gaz basıncıyla doğrudan ilgilidir bu sebeple bizim değiştireceğimiz parametreler de sıvı ve gaz basıncına etki eden faktörlerle ilgilidir.Biz bu projeyi yaparken de aşağıda belirttiğimiz kaynakçada ki kaynaklardan yararlanacağız.Bu projede ki malzemelerimiz şunlar;Bir adet yarım küre şeklinde kap,iki adet su şişesi,serum borusu.Nasıl yapacağımızdan da kısaca bahsetmem gerekirse biz öncelikle yarım küre şeklindeki kabımızı yüksekte tutacağız bu kaptan aşağıdaki su şişesine bir serum borusu indireceğiz ondan da diğer su şişesine bir serum borusu yerleştireceğiz yukarıdaki su şişesinden de yarım küre şeklindeki kabımıza serum borusu çekeceğiz ve bu şekilde deneyimizi gerçekleştirerek gözlemlerimizi kaydedeceğiz.
 
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
 
- 1. http://youtu.be/8mqr4TtR3mY
- 2. http://fensizolmaz.com/heron-cesmesi-pano-yazisi/
-
+1. http://youtu.be/8mqr4TtR3mY
+2. http://fensizolmaz.com/heron-cesmesi-pano-yazisi/
+3. https://www.ne-nasil.net/heron-cesmesi-yapimi/
+4. https://muhendisonline.net/heron-cesmesi-hidroliksiz-su-tasinmasi.html
