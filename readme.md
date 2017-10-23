@@ -1,6 +1,6 @@
 # IYPT-2017
 ## Ödev 1 yönergeleri
-Ödevin dönüş tarihi Çarşamba,  25 Ekim 2017 saat 23.00'dır. Ödev yapmak için aşağıdaki yönergeleri izleyin. 
+Ödevin dönüş tarihi ~~Çarşamba,  25 Ekim 2017 saat 23.00'dır.~~ Ödev süresi 30 Ekim Pazartesi, 23.00'a uzatılmıştır.  Ödev yapmak için aşağıdaki yönergeleri izleyin. 
 
 **Not**: Ödevler grup halinde yapılacaklardır. Grup adına açtığınız github hesabını kullanın.  Grup adına bir ödev sunulacaktır. 
 
