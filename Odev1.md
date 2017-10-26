@@ -4,18 +4,20 @@ Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yaz
 
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
+10-A  | Beyza Nur Azbaz | 380
+10-A   | Ayşe Yakar | 451
+10-A   | Muhammet Ali Ağırman | 425
 
-#  (buraya proje başlığını yazınız)
+#  Photograph of a Television Screen
 ## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
+ Öncelikle bizim takım olarak seçtiğimiz proje 1991 yılından olan 'Photograph of a Television Screen' sorusudur. Amacımız sahip olduğumuz bir fotoğraf makinesinin shutter (fotoğraf makinesi kapağı) hızını ve exposure time'ını (poz süresi) hesaplamaktır.
+ Shutter bir fotoğraf makinesinin fotoğraf  çekerken açılıp kapanan kapağıdır. Exposure time ise fotoğraf çekerken fotoğraf makinesinin ışık alıdığı süredir. 
+ Seçtiğimiz bu soruyu yaparken fotoğraf makinesi ve bir videodan yararlanacağız. Fotoğraf makinesini hızlı çekime alıp videonun fotoğraflarını çekeceğiz. Videonun süresi ve .ektiğimiz fotoğraf sayısından, fotoğraf makinemizin shutter hızını hesaplayacağız. Exposure time'ı ise fotoğraf makinesini fotoğraf çekerken videoya alarak hesaplayacağız. Fotoğraf çekerken makinenin kapağının kapanmasına kadar geçen süre bize fotoğraf makinemizin ışık alma süresini verecek.
 
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
 
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
-
+ 1. Hiscocks, Peter D. “Measuring Camera Shutter Speed”. Ryerson University. 
+https://www.ee.ryerson.ca/~phiscock/astronomy/light-pollution/shutter-cal.pdf
+ Son Erişim Tarihi: 24 Mayıs 2010
+ 2. https://www.youtube.com/watch?v=gL8YAoJFzkg&t=110s
+ 3. Jacobson, R.E. 2000. The Manual of Photography: Photographic and Digital Imaging (9. Baskı). Oxford, UK: Focal Press.
